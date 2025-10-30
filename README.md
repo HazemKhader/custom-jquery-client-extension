@@ -21,7 +21,7 @@ Define and export code in the client extension with a specifier that the import 
 ## Prerequisites
 
 - **Java 17+**
-- **Liferay DXP 2025.Q1.LTS** (or compatible)
+- **Liferay dxp-2025.q1.18-ltsS** (or compatible)
 - **Blade CLI** v7.0.3+
 - **Git**
 
