@@ -72,7 +72,7 @@ gradlew :custom-jquery-extension:deploy
 3. Enter `FS` as the name and click Save.
 4. Click New to add a new fragment.
 5. With Basic Fragment selected, click Next.
-6. In the Add Fragment modal, enter Outlined Text as the name and click Add.
+6. In the Add Fragment modal, enter jQuery Counter Text as the name and click Add.
 7. On the fragment design screen, click into the HTML editor and add a paragraph (`<span>`) tag in the existing `div` and `span` with class "counter circle" and text 12345:
 
 ```
