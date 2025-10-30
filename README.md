@@ -13,8 +13,6 @@ Define and export code in the client extension with a specifier that the import 
 - [Deployment](#deployment)
 - [Add a Fragment Importing the Code](#add-fragment)
 - [Refrences](#refrences)
-- [Workflow Configuration](#workflow-configuration)
-- [Custom User Fields](#custom-user-fields)
 
 ---
 
