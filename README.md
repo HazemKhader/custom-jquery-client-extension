@@ -49,7 +49,7 @@ blade server start
 
 ## Deployment
 
-Build and deploy the Public Registration Element client-extension:
+Build and deploy the Custom jQuery client-extension:
 
 ```bash
 # From the workspace root
